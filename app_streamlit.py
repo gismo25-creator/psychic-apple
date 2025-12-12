@@ -74,7 +74,7 @@ def main():
     """Hoofdpagina van de applicatie"""
     
     # Header
-    st.markdown('<h1 class="main-header">🤖 Grid Trading Bot Dashboard</h1>', 
+    st.markdown('<h1 class="main-header">🤖 Grid Trading Dashboard</h1>', 
                 unsafe_allow_html=True)
     
     # Sidebar voor configuratie
@@ -686,4 +686,5 @@ def display_backtesting():
                 st.error(f"Backtest failed: {str(e)}")
 
 if __name__ == "__main__":
+
     main()
