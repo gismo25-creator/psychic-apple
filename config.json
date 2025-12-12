@@ -1,0 +1,9 @@
+{
+    "default_symbol": "BTC/USDT",
+    "initial_capital": 10000,
+    "max_drawdown": 0.20,
+    "grid_types": ["linear", "geometric", "fibonacci"],
+    "update_interval": 5,
+    "risk_free_rate": 0.02,
+    "fee_rate": 0.001
+}
