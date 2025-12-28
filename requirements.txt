@@ -1,9 +1,6 @@
 streamlit
-pandas
-numpy
-plotly
 ccxt
-yfinance
-python-dotenv
-scipy
-psutil
+plotly
+pandas
+streamlit-autorefresh
+numpy
